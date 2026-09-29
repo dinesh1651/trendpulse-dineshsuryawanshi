@@ -1,0 +1,2 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+123456,Example technology story,technology,150,45,example_user,2026-09-29T20:30:00,0.298,True

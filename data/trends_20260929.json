@@ -1,0 +1,11 @@
+[
+    {
+        "post_id": 123456,
+        "title": "Example technology story",
+        "category": "technology",
+        "score": 150,
+        "num_comments": 45,
+        "author": "example_user",
+        "collected_at": "2026-09-29T20:30:00"
+    }
+]
